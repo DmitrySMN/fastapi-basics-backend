@@ -5,6 +5,7 @@ description = "Educational project for learning the basic technology stack for p
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "alembic>=1.15.1",
     "fastapi>=0.115.11",
     "google-genai>=1.7.0",
     "psycopg2>=2.9.10",
